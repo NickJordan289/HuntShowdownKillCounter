@@ -3,7 +3,7 @@ import numpy as np
 import pyautogui
 import cv2
 
-show = False
+show = True
 template_source = 'x.png'
 template = cv2.imread(template_source, 0)
 
