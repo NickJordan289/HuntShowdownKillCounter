@@ -1,3 +1,12 @@
+# Panotti .gitignore
+Samples/
+Preproc
+__pycache__
+*.pyc
+nohup.out
+output.wav
+data.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
