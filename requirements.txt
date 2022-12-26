@@ -68,6 +68,6 @@ tensorflow==2.4.0
 termcolor==1.1.0
 urllib3==1.25.8
 werkzeug==1.0.0
-wheel==0.34.2 ; python_version >= '3'
+wheel==0.38.1 ; python_version >= '3'
 winshell==0.6
 wrapt==1.11.2
